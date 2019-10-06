@@ -4,7 +4,7 @@ Frustrated of staring at your screen waiting for the result of your codechef sub
 # Demo
 ![Demo](demo.gif)
 
-# Installation
+# Installation process
 
 ### Firefox
 Download from [Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/codechef-shout/)
